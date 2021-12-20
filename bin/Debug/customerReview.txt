@@ -1,0 +1,3 @@
+{"CustomerName":"jhgrdy","PhoneNumber":null,"Date":"2021-01-01T16:49:21.8008195+05:45","Email":"","Suggestions":"","Reviews":[{"CriteriaName":"test","Value":"1"},{"CriteriaName":"hekk","Value":"3"}]},
+{"CustomerName":"ihdgfkjdfkjdgofl","PhoneNumber":null,"Date":"2021-01-01T16:49:34.0097518+05:45","Email":"","Suggestions":"","Reviews":[{"CriteriaName":"test","Value":"1"},{"CriteriaName":"hekk","Value":"3"}]},
+{"CustomerName":"twtesuidhgfk","PhoneNumber":null,"Date":"2021-01-01T16:49:40.3418798+05:45","Email":"","Suggestions":"","Reviews":[{"CriteriaName":"test","Value":"1"},{"CriteriaName":"hekk","Value":"3"}]},

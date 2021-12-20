@@ -1,0 +1,16 @@
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\CustomerFeedpackSystem.exe.config
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\CustomerFeedpackSystem.exe
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\CustomerFeedpackSystem.pdb
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\Newtonsoft.Json.dll
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\bin\Release\Newtonsoft.Json.xml
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.csprojAssemblyReference.cache
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.Admin.resources
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.Customer.resources
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.Properties.login.resources
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.Properties.Resources.resources
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.csproj.GenerateResource.cache
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.csproj.CoreCompileInputs.cache
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.csproj.CopyComplete
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.exe
+C:\Users\Srishti Ulak\Downloads\CustomerFeedpackSystem (1)\CustomerFeedpackSystem\obj\Release\CustomerFeedpackSystem.pdb
